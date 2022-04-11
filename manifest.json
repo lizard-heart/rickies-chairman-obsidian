@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-rickies",
+  "name": "Rickies Chairmen",
+  "version": "1.0.0",
+  "minAppVersion": "0.9.7",
+  "description": "Insert rickies chairmen into your notes.",
+  "author": "Henry Gustafson",
+  "authorUrl": "https://lizard-heart.github.io",
+  "isDesktopOnly": false
+}
