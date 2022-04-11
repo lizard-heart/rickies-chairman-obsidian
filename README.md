@@ -1,6 +1,7 @@
 # rickies-chairman-obsidian
 
-[Confused?](https://www.relay.fm/connected/)
+- [Confused?](https://www.relay.fm/connected/)
+- [API credit](https://rickies.co/api)
 
 ## Installation
 First download this repository, either by cloning or downloading the zip file. 
